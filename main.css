@@ -65,12 +65,11 @@ padding: 2em; }
 .contents {
 	text-decoration: none;
 	font-family: "Hack-Regular", monospace;
-	text-align: right;
+	text-align: center;
 }
 
 .contents a {
-	color: #a4a4a4;
-	text-decoration: none;
+	color: #3c4cb5;
 }
 
 .contents a:hover {
